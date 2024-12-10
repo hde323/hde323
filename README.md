@@ -5,13 +5,13 @@
 
 - 🔭 My first project is [php mvc framework](https://github.com/hde323/php_mvc_framework)
 
-- 🌱 I’m currently learning **laravel, angular and system designing.**
+- 🌱 I’m currently learning **ASP.NET CORE, React and system designing.**
 
 - 👯 I’m looking to forward to make **large scale social media app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hde323](https://github.com/hde323)
 
-- 💬 Ask me about **php ,symfony and laravel**
+- 💬 Ask me about **C# ,ASP.NET CORE, PHP**
 
 - 📫 How to reach me **sehh510@gmail.com**
 
