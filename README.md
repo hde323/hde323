@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hde323](https://github.com/hde323)
 
-- 💬 Ask me about **C# ,C,C++, PHP, ESPIDF, ARDUINO FRAMEWORK**
+- 💬 Ask me about ** ,C,C+, ESPIDF, altium, kicad**
 
-- 📫 How to reach me **sehh510@gmail.com**
+- 📫 How to reach me **sehh.hadi@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
